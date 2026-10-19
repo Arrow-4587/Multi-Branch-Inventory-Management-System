@@ -1,0 +1,2 @@
+local branch -> main
+remote branch -> git push -u origin master
