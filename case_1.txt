@@ -1,2 +1,4 @@
 local branch -> main
-remote branch -> git push -u origin master
+remote branch -> git push -u origin main
+
+//changed remote branch from master to main
